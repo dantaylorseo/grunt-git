@@ -39,7 +39,7 @@
     "mocha": "^3.4.2"
   },
   "peerDependencies": {
-    "grunt": "~1.0.1"
+    "grunt": "^1.4.1"
   },
   "keywords": [
     "gruntplugin"
